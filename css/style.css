@@ -174,7 +174,8 @@ h6 {
 
 @media (max-width: 767.98px) {
   .btn_w:hover {
-    display: none;
+       color: #616161;
+       background-color: transparent;
   }
 }
 
@@ -204,9 +205,10 @@ h6 {
   color: #fff;
 }
 
-@media (max-width: 767.98px) {
+@media (min-width: 767.98px) {
   .btn_red:hover {
-    display: none;
+    color: #616161;
+    background-color: transparent;
   }
 }
 
